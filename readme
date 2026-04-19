@@ -1,0 +1,18 @@
+Weather and climate data play a vital role in planning, agriculture, disaster management, and sustainable development. In a region like Kashmir, known for its extreme seasonal variation — from heavy snowfall in winter to warm summers — understanding long-term weather patterns is critical for residents, researchers, policymakers, and environmentalists alike.
+
+Srinagar, the summer capital of Jammu & Kashmir, is situated at an altitude of approximately 1,585 metres (5,200 feet) above sea level in the Kashmir Valley. It is positioned at latitude 34.08°N and longitude 74.79°E. The city’s geographic location at the foothills of the Himalayas, along the banks of the Jhelum River, gives it a distinctive temperate climate with four well-defined seasons: Winter (December–February), Spring (March–May), Monsoon/Summer (June–August), and Autumn (September–November).
+
+The climate of Srinagar is characterized by cold, snowy winters and mild-to-warm summers. The city receives significant precipitation from both the Western Disturbances (in winter) and the South Asian Monsoon (in summer). These two distinct precipitation systems make Srinagar’s weather particularly complex and interesting for long-term analysis.
+
+This project focuses on analyzing 20 years of daily weather data from Srinagar, Kashmir (2005–2025) to extract meaningful insights about temperature trends, precipitation patterns, seasonal variation, and atmospheric conditions. The dataset includes over 7,300 daily records covering variables such as maximum and minimum temperature, humidity, rainfall, snowfall, wind speed, UV index, visibility, and more.
+
+The primary objective of this project is to perform a systematic Exploratory Data Analysis (EDA) on the Srinagar weather dataset and present the findings through an interactive Power BI dashboard. EDA is a fundamental step in the data science workflow that involves summarizing the main characteristics of a dataset, often using visual methods. By exploring the data through multiple lenses — time trends, seasonal patterns, correlation analysis, and distribution analysis — this project aims to tell a comprehensive story about Srinagar’s climate over two decades.
+
+1.1 Objectives of the Project
+The following specific objectives were defined for this project:
+•	To perform a complete ETL (Extract, Transform, Load) process on raw weather data using Python and Power BI.
+•	To conduct a multi-dimensional exploratory data analysis covering temperature, precipitation, snow, wind, humidity, and UV index.
+•	To design and develop an interactive two-page Power BI dashboard with KPI cards, dynamic slicers, and multiple visualization types.
+•	To create meaningful DAX measures for all key performance indicators (KPIs) required for the analysis.
+•	To identify seasonal patterns, long-term climate trends, and extreme weather events in the 20-year dataset.
+•	To document the entire data analysis process in a structured academic project report following university guidelines.
